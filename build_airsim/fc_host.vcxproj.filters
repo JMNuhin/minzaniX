@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="D:\minzaniX-main\minzaniX-main\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\minzaniX-main\minzaniX-main\core\Source\altitude_controller.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\minzaniX-main\minzaniX-main\core\Source\altitude_estimator.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\minzaniX-main\minzaniX-main\core\Source\controller.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\minzaniX-main\minzaniX-main\core\Source\estimator.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\minzaniX-main\minzaniX-main\core\Source\fc_interface.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\minzaniX-main\minzaniX-main\core\Source\mixer.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\minzaniX-main\minzaniX-main\core\Source\params.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\minzaniX-main\minzaniX-main\core\Source\pid_tuning.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\minzaniX-main\minzaniX-main\core\Source\safety.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="D:\minzaniX-main\minzaniX-main\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{C3FBBEAA-D0F9-37D3-B7BC-4CC3EE5AB5A9}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
